@@ -1,0 +1,11 @@
+Id:001
+Summary: When entering today's date app counts age.
+Steps:
+	1. Open http://tutu-ru.github.io/
+	2. Input today`s date
+	3. Click button "Посчитать"
+
+Expected result:
+NaN лет
+Actual result:
+11 месяцев
