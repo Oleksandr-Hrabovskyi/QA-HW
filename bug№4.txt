@@ -1,0 +1,12 @@
+Id:004
+Summary: calculates age without year
+Steps:
+	1. Open http://tutu-ru.github.io/
+	2. Input day and month without year
+	3. Click button "Посчитать"
+
+Expected result:
+NaN лет, message about error data
+Actual result:
+Мне
+19 лет
